@@ -42,7 +42,7 @@ UTS-Business-Intelligence/
 
 ## 🏗️ Desain Star Schema
 
-<img width="2779" height="1979" alt="star_schema_diagram" src="https://github.com/user-attachments/assets/9ed52344-bdfa-492b-b2c9-b31e7deb54e8" />
+<img width="1108" height="651" alt="WhatsApp Image 2026-04-23 at 17 02 37" src="https://github.com/user-attachments/assets/1b2301a2-47c7-4270-880b-69580bfa9462" />
 
 ---
 
