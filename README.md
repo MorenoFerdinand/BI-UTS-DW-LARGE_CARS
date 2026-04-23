@@ -34,7 +34,7 @@ UTS-Business-Intelligence/
 │   ├── dim_drivetrain.csv
 │   └── fact_cars.csv
 ├── Business_Intelligence.ipynb
-├── Laporan_Business_Intelligence_Kelompok_7.docx
+├── Laporan_Business_Intelligence_Kelompok_15.docx
 └── README.md
 ```
 
